@@ -25,3 +25,4 @@ This project showcases an interactive E-Commerce Sales Dashboard built using **P
 ---
 
 Feel free to fork, clone, or use this as inspiration for your own dashboard projects!
+here- mayank.freelancer7@gmail.com
